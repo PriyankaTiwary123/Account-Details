@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccountDetails should render accordian  correctly with given data 1`] = `
+<div
+  className="container-fluid account-details"
+>
+  <h4
+    className="account-header"
+  >
+    Account details
+  </h4>
+  <div
+    className="makeStyles-root-1"
+  />
+</div>
+`;
+
+exports[`AccountDetails should render correctly in "debug" mode 1`] = `
+<div
+  className="container-fluid account-details"
+>
+  <h4
+    className="account-header"
+  >
+    Account details
+  </h4>
+  <div
+    className="makeStyles-root-1"
+  />
+</div>
+`;

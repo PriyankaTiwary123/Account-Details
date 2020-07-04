@@ -1,0 +1,25 @@
+.App {
+  /* background: lightgray; */
+  height: 100%; 
+  background-size: cover;
+}
+
+.account-details{
+  margin: 10px;
+}
+.back-btn{
+  margin: 10px;
+  float: right;
+}
+.accordian{
+  margin: 10px;
+}
+.account-table, .transaction-table{
+  display: contents;
+}
+.account-header{
+text-align: center;
+}
+.MuiAccordionSummary-root{
+background-color:aliceblue !important ;
+}

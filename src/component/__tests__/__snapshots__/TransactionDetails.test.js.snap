@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransactionDetails should render correctly in "debug" mode 1`] = `
+<div
+  className="container-fluid transaction-details"
+>
+  <h4
+    className="account-header"
+  >
+    Transaction listings
+  </h4>
+  <div
+    className="makeStyles-root-1"
+  />
+  <WithStyles(ForwardRef(Button))
+    className="back-btn"
+    color="primary"
+    onClick={[Function]}
+    variant="contained"
+  >
+    Back
+  </WithStyles(ForwardRef(Button))>
+</div>
+`;
